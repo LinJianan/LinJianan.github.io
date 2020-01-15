@@ -1,39 +1,24 @@
-## Welcome to GitHub Pages
-/*
-123
-*/
-You can use the [editor on GitHub](https://github.com/LinJianan/LinJianan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Basic Information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Name: Jianan Lin (Unicode Name: 林家南)
 
-### Markdown
+E-mail: jnlin16@fudan.edu.cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+2016.08-2021.06: Fudan Univiersity, Shanghai, China (Undergraduate)
 
-# Header 1
-## Header 2
-### Header 3
+Major: 2016.08-2017.06 Natural Science; 2017.07-2018.04 Materal Physics; 2018.05-2021.06 Software Engineering
 
-- Bulleted
-- List
+### Research
 
-1. Numbered
-2. List
+Research Topic: Algorithmic Game Theory, Algorithmic Mechanism Design
 
-**Bold** and _Italic_ and `Code` text
+Experience: [Institute for Theoratical Computer Science in SHUFE](http://itcs.shufe.edu.cn/) 2019.02-now
 
-[Link](url) and ![Image](src)
-```
+Past Experience: [Functional Nanomaterial Lab in Fudan University](http://ms.fudan.edu.cn/fxs/index.html) 2017.08-2018.05；
+Electornic Intelligence Lab in Fudan University 2018.06-2019.01
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Work
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LinJianan/LinJianan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Intern: [Cardinal Opertions (Beijing)](https://www.shanshu.ai/) (杉数科技（北京）有限公司) 2019.09-now
