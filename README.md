@@ -1,6 +1,6 @@
 ### Basic Information
 
-Name: Jianan Lin (Unicode Name: 林家南)
+Name: Jianan Lin (林家南)
 
 E-mail: jnlin16@fudan.edu.cn
 
