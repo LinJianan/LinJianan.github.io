@@ -10,9 +10,13 @@ E-mail: jnlin16@fudan.edu.cn
 
 Major: 2016.08-2017.06 Natural Science; 2017.07-2018.04 Materal Physics; 2018.05-2021.06 Software Engineering
 
+Future: I am applying for CS PhD in North America.
+
 ### Research
 
-Research Topic: Algorithmic Game Theory, Algorithmic Mechanism Design
+Research Topic: Algorithmic Game Theory, Algorithmic Mechanism Design; Online Algorithms
+
+Advisors: [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) and [Hu Fu](https://www.fuhuthu.com/)
 
 Experience: [Institute for Theoratical Computer Science in SHUFE](http://itcs.shufe.edu.cn/) 2019.02-now
 
@@ -21,4 +25,12 @@ Electornic Intelligence Lab in Fudan University 2018.06-2019.01
 
 ### Work
 
-Intern: [Cardinal Opertions (Beijing)](https://www.shanshu.ai/) (杉数科技（北京）有限公司) 2019.09-now
+Intern: [Cardinal Opertions (Beijing)](https://www.shanshu.ai/) (杉数科技（北京）有限公司), 2019.09-2020.12, as Algorithm Intern
+
+Intern: TCS Lab in HW, 2020.07-now, as Research Assistant
+
+### Publications and Manuscripts
+
+[Nearly Complete Characterization of 2-Agent Deterministic Strategyproof Mechanisms for Single Facility Location in Lp Space](https://arxiv.org/abs/2011.13133), single author, in COCOA 2020
+
+[Social Choice for Eliminating the Worst Candidate\\ under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice), with [Chenhao Wang](https://scholars.cityu.edu.hk/en/persons/chenhao-wang(032e2793-ef16-4e12-90ea-54b6ccf27e22).html), as Manuscript (covered by Nisarg Shah's work in FOCS 2020)
