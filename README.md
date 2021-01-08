@@ -36,3 +36,7 @@ Intern: TCS Lab in HW, 2020.07-now, as Research Assistant
 [Social Choice for Eliminating the Worst Candidate under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice), with [Chenhao Wang](https://scholars.cityu.edu.hk/en/persons/chenhao-wang(032e2793-ef16-4e12-90ea-54b6ccf27e22).html), as Manuscript (covered by Nisarg Shah's work in FOCS 2020)
 
 Google Scholar: https://scholar.google.com/citations?user=98G-ZLAAAAAJ&hl=zh-CN; I do not have a dblp homepage.
+
+### Life
+
+I like StarCraft II, Heroes of the Storm and Azur Lane. Welcome to discuss with me about these.
