@@ -10,11 +10,11 @@ E-mail: jnlin16@fudan.edu.cn
 
 Major: 2016.08-2017.06 Natural Science; 2017.07-2018.04 Materal Physics; 2018.05-2021.06 Software Engineering
 
-Future: I am applying for CS PhD in North America.
+Future: I have accepted the CS PhD offer of Rensselaer Polytechnic Institute. My advisors in PhD period may be [Elliot Anshelevich](https://www.cs.rpi.edu/~eanshel/) and [Lirong Xia (夏立荣)](https://www.cs.rpi.edu/~xial/)
 
 ### Research
 
-Research Topic: Algorithmic Game Theory, Algorithmic Mechanism Design; Online Algorithms
+Research Topic: Algorithmic Game Theory, Algorithmic Mechanism Design; Online Approximation Algorithms
 
 Advisors: [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) and [Hu Fu](https://www.fuhuthu.com/)
 
@@ -27,7 +27,7 @@ Electornic Intelligence Lab in Fudan University 2018.06-2019.01
 
 Intern: [Cardinal Opertions (Beijing)](https://www.shanshu.ai/) (杉数科技（北京）有限公司), 2019.09-2019.12, as Algorithm Intern
 
-Intern: TCS Lab in HW, 2020.07-now, as Research Assistant
+Intern: TCS Lab, 2020.07-now, as Research Assistant
 
 ### Publications and Manuscripts
 
