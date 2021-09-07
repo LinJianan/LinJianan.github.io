@@ -2,7 +2,7 @@
 
 Name: Jianan Lin (林家南)
 
-E-mail: jnlin16@fudan.edu.cn
+E-mail: jnlin16@fudan.edu.cn; linj21@rpi.edu
 
 ### Education
 
@@ -10,7 +10,9 @@ E-mail: jnlin16@fudan.edu.cn
 
 Major: 2016.08-2017.06 Natural Science; 2017.07-2018.04 Materal Physics; 2018.05-2021.06 Software Engineering
 
-Future: I have accepted the CS PhD offer of Rensselaer Polytechnic Institute. My advisors in PhD period may be [Elliot Anshelevich](https://www.cs.rpi.edu/~eanshel/) and [Lirong Xia (夏立荣)](https://www.cs.rpi.edu/~xial/)
+2021.08-Now: Rensselaer Polytechnic Institute, Troy, US (PhD)
+
+Major: Computer Science; Direction: Theoretical Computer Science; Adviosr: [Elliot Anshelevich](https://www.cs.rpi.edu/~eanshel/) and [Lirong Xia (夏立荣)](https://www.cs.rpi.edu/~xial/)
 
 ### Research
 
