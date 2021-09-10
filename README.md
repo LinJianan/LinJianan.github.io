@@ -18,7 +18,7 @@ Major: Computer Science; Direction: Theoretical Computer Science; Adviosr: [Elli
 
 Research Topic: Algorithmic Game Theory, Algorithmic Mechanism Design; Online Approximation Algorithms
 
-Advisors: [Pinyan Lu（陆品燕）](http://itcs.shufe.edu.cn/pinyan/) and [Hu Fu（伏虎）](https://www.fuhuthu.com/)
+Past Advisors: [Pinyan Lu（陆品燕）](http://itcs.shufe.edu.cn/pinyan/) and [Hu Fu（伏虎）](https://www.fuhuthu.com/)
 
 Experience except RPI: [Institute for Theoratical Computer Science in SHUFE](http://itcs.shufe.edu.cn/) 2019.02-2021.08
 
