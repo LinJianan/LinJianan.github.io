@@ -20,7 +20,7 @@ Research Topic: Algorithmic Game Theory, Algorithmic Mechanism Design; Online Ap
 
 Advisors: [Pinyan Lu（陆品燕）](http://itcs.shufe.edu.cn/pinyan/) and [Hu Fu（伏虎）](https://www.fuhuthu.com/)
 
-Experience: [Institute for Theoratical Computer Science in SHUFE](http://itcs.shufe.edu.cn/) 2019.02-now
+Experience except RPI: [Institute for Theoratical Computer Science in SHUFE](http://itcs.shufe.edu.cn/) 2019.02-2021.08
 
 Past Experience: [Functional Nanomaterial Lab in Fudan University](http://ms.fudan.edu.cn/fxs/index.html) 2017.08-2018.05；
 Electornic Intelligence Lab in Fudan University 2018.06-2019.01
