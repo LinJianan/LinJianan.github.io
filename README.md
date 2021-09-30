@@ -41,4 +41,4 @@ Google Scholar: https://scholar.google.com/citations?user=98G-ZLAAAAAJ&hl=zh-CN;
 
 ### Life
 
-I like StarCraft II, Heroes of the Storm and Azur Lane. Welcome to discuss with me about these.
+I like Piano, Chess, StarCraft II, Heroes of the Storm and Azur Lane. Welcome to discuss with me about these.
