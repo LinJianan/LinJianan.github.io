@@ -39,7 +39,7 @@ Intern: TCS Lab, 2020.07-2021.06, as Research Assistant
 
 [Social Choice for Eliminating the Worst Candidate under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice), with [Chenhao Wang](https://scholars.cityu.edu.hk/en/persons/chenhao-wang(032e2793-ef16-4e12-90ea-54b6ccf27e22).html), as Manuscript (covered by Nisarg Shah's work in FOCS 2020)
 
-[Stability of Queueing Networks Beyond Complete Bipartite Cases](https://arxiv.org/abs/2210.07632), with Hu Fu and Qun Hu, in WINE 2022.
+[Stability of Queueing Networks Beyond Complete Bipartite Cases](https://arxiv.org/abs/2210.07632), with [Hu Fu](https://www.fuhuthu.com/) and [Qun Hu](https://itcs.sufe.edu.cn/54/3b/c10501a152635/page.htm), in WINE 2022.
 
 Google Scholar: https://scholar.google.com/citations?user=98G-ZLAAAAAJ&hl=zh-CN; I do not have a dblp homepage.
 
