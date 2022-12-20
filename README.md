@@ -33,7 +33,7 @@ Intern: [Cardinal Opertions (Beijing)](https://www.shanshu.ai/) (杉数科技（
 
 Intern: TCS Lab, 2020.07-2021.06, as research assistant
 
-Intern: [Hedgehog Lab](hlab.app), 2022.05-2022.08 as software engineer intern
+Intern: [Hedgehog Lab](https://hlab.app), 2022.05-2022.08 as software engineer intern
 
 ### Publications and Manuscripts
 
