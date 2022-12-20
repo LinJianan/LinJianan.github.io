@@ -12,7 +12,7 @@ E-mail: jnlin16@fudan.edu.cn; linj21@rpi.edu; hcm6755@gmail.com(recommended)
 
 Major: 2016.08-2017.06 Natural Science; 2017.07-2018.04 Materal Physics; 2018.05-2021.06 Software Engineering
 
-2021.08-Now: Rensselaer Polytechnic Institute, Troy, US (PhD)
+2021.08-Now: Rensselaer Polytechnic Institute, Troy, US (Master, PhD quit because advisor retired)
 
 Major: Computer Science; Direction: Theoretical Computer Science; Adviosr: [Elliot Anshelevich](https://www.cs.rpi.edu/~eanshel/) and [Lirong Xia (夏立荣)](https://www.cs.rpi.edu/~xial/)
 
@@ -29,9 +29,11 @@ Electornic Intelligence Lab in Fudan University 2018.06-2019.01
 
 ### Work
 
-Intern: [Cardinal Opertions (Beijing)](https://www.shanshu.ai/) (杉数科技（北京）有限公司), 2019.09-2019.12, as Algorithm Intern
+Intern: [Cardinal Opertions (Beijing)](https://www.shanshu.ai/) (杉数科技（北京）有限公司), 2019.09-2019.12, as algorithm engineer intern
 
-Intern: TCS Lab, 2020.07-2021.06, as Research Assistant
+Intern: TCS Lab, 2020.07-2021.06, as research assistant
+
+Intern: [Hedgehog Lab](hlab.app), 2022.05-2022.08 as software engineer intern
 
 ### Publications and Manuscripts
 
