@@ -4,7 +4,7 @@ This is a brief self-introduction.
 
 Name: Jianan Lin (林家南)
 
-E-mail: jnlin16@fudan.edu.cn; linj21@rpi.edu; hcm6755@gmail.com(recommended)
+E-mail: jnlin16@fudan.edu.cn; <del>linj21@rpi.edu</del>(already deleted); hcm6755@gmail.com(recommended)
 
 ### Education
 
