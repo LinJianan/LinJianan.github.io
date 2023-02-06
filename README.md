@@ -12,7 +12,7 @@ E-mail: jnlin16@fudan.edu.cn; <del>linj21@rpi.edu</del>(already deleted); hcm675
 
 Major: 2016.08-2017.06 Natural Science; 2017.07-2018.04 Materal Physics; 2018.05-2021.06 Software Engineering
 
-2021.08-Now: Rensselaer Polytechnic Institute, Troy, US (Master, PhD quit because advisor retired)
+2021.08-2022.12: Rensselaer Polytechnic Institute, Troy, US (Master, PhD quit because advisor retired)
 
 Major: Computer Science; Direction: Theoretical Computer Science; Adviosr: [Elliot Anshelevich](https://www.cs.rpi.edu/~eanshel/) and [Lirong Xia (夏立荣)](https://www.cs.rpi.edu/~xial/)
 
