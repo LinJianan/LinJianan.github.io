@@ -35,6 +35,8 @@ Intern: TCS Lab, 2020.07-2021.06, as research assistant
 
 Intern: [Hedgehog Lab](https://hlab.app), 2022.05-2022.08 as software engineer intern
 
+Full-time: [FocusAI](https://focusai.com), 2023.01-now as junior software engineer
+
 ### Publications and Manuscripts
 
 [Nearly Complete Characterization of 2-Agent Deterministic Strategyproof Mechanisms for Single Facility Location in Lp Space](https://arxiv.org/abs/2011.13133), single author, in COCOA 2020
