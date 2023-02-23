@@ -29,7 +29,7 @@ Electornic Intelligence Lab in Fudan University 2018.06-2019.01
 
 ### Work
 
-Intern: [Cardinal Opertions (Beijing)](https://www.shanshu.ai/) (杉数科技（北京）有限公司), 2019.09-2019.12, as algorithm engineer intern
+Intern: [Cardinal Opertions (Beijing)](https://www.shanshu.ai/), 2019.09-2019.12, as algorithm engineer intern
 
 Intern: [TCS Lab](https://www.tcs-lab.com), 2020.07-2021.06, as research assistant
 
