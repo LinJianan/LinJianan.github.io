@@ -33,7 +33,7 @@ Intern: [Cardinal Opertions (Beijing)](https://www.shanshu.ai/), 2019.09-2019.12
 
 Intern: [TCS Lab](https://www.tcs-lab.com), 2020.07-2021.06, as research assistant
 
-Intern: [Hedgehog Lab](https://hlab.app), 2022.05-2022.08 as software engineer intern
+Intern: [Hedgehog Lab](https://hlab.app), 2022.05-2022.08 as open-source contributor
 
 Full-time: [FocusAI](https://focusai.com), 2023.01-now as junior software engineer
 
