@@ -35,7 +35,7 @@ Intern: [TCS Lab](https://www.tcs-lab.com), 2020.07-2021.06, as research assista
 
 Intern: [Hedgehog Lab](https://hlab.app), 2022.05-2022.08 as open-source contributor
 
-Full-time: [FocusAI](https://focusai.com), 2023.01-now as junior software engineer
+Full-time: [FocusAI](https://focusai.com), 2023.01-2023.10 as junior software engineer
 
 ### Publications and Manuscripts
 
