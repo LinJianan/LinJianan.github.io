@@ -37,6 +37,8 @@ Intern: [Hedgehog Lab](https://hlab.app), 2022.05-2022.08 as open-source contrib
 
 Full-time: [FocusAI](https://focusai.com), 2023.01-2023.10 as junior software engineer
 
+Full-time: [Polyhedra Network](https://polyhedra.network/), 2023.11-now, as junior software engineer
+
 ### Publications and Manuscripts
 
 [Nearly Complete Characterization of 2-Agent Deterministic Strategyproof Mechanisms for Single Facility Location in Lp Space](https://arxiv.org/abs/2011.13133), single author, in COCOA 2020
