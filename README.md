@@ -43,7 +43,8 @@ Full-time: [Polyhedra Network](https://polyhedra.network/), 2023.11-now, as mid-
 
 [Nearly Complete Characterization of 2-Agent Deterministic Strategyproof Mechanisms for Single Facility Location in Lp Space](https://arxiv.org/abs/2011.13133), single author, in COCOA 2020
 
-[Social Choice for Eliminating the Worst Candidate under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice), with [Chenhao Wang（王晨豪）](https://chenhwang4.github.io/homepage), as Manuscript (covered by Nisarg Shah's work in FOCS 2020)
+[Social Choice for Eliminating the Worst Candidate under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice), with [Chenhao Wang（王晨豪）](https://chenhwang4.github.io/homepage), as Manuscript 
+<!-- (covered by Nisarg Shah's work in FOCS 2020) -->
 
 [Stability of Queueing Networks Beyond Complete Bipartite Cases](https://arxiv.org/abs/2210.07632), with [Hu Fu（伏虎）](https://www.fuhuthu.com/) and [Qun Hu（胡群）](https://itcs.sufe.edu.cn/54/3b/c10501a152635/page.htm), in WINE 2022.
 
