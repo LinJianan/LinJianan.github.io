@@ -50,6 +50,8 @@ Full-time: [Polyhedra Network](https://polyhedra.network/), 2023.11-now, as mid-
 
 Google Scholar: https://scholar.google.com/citations?user=98G-ZLAAAAAJ&hl=zh-CN; I do not have a dblp homepage.
 
+(This year I will submit 5 papers in theory area and hope at least one of them can be accpeted QAQ.)
+
 ### Life
 
 I like Piano, Chess, StarCraft II, Heroes of the Storm and Azur Lane. Welcome to discuss with me about these.
