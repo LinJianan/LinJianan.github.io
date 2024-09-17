@@ -45,7 +45,7 @@ All the papers will be shown in PDF versions and most of them can be found in ar
 
 [Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993), with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) and Yanxi Xie (谢妍曦), will appear in [ECAI 2024](https://www.ecai2024.eu/). PDF will be shown during the conference.
 
-[Stability of Queueing Networks Beyond Complete Bipartite Cases](https://arxiv.org/abs/2210.07632), with [Hu Fu(伏虎)](https://www.fuhuthu.com/) and [Qun Hu (胡群)](https://itcs.sufe.edu.cn/54/3b/c10501a152635/page.htm), in [WINE 2022](https://www.cs.rpi.edu/wine2022/).
+[Stability of Queueing Networks Beyond Complete Bipartite Cases](https://arxiv.org/abs/2210.07632), with [Hu Fu (伏虎)](https://www.fuhuthu.com/) and [Qun Hu (胡群)](https://itcs.sufe.edu.cn/54/3b/c10501a152635/page.htm), in [WINE 2022](https://www.cs.rpi.edu/wine2022/).
 
 [Nearly Complete Characterization of 2-Agent Deterministic Strategyproof Mechanisms for Single Facility Location in Lp Space](https://arxiv.org/abs/2011.13133), single author, in [COCOA 2020](https://theory.utdallas.edu/COCOA2020/).
 
