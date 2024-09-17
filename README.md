@@ -20,7 +20,7 @@ Major: Computer Science; Direction: Theoretical Computer Science; Adviosr: [Elli
 
 Research Topic: Algorithmic Game Theory, Algorithmic Mechanism Design; Online Approximation Algorithms
 
-Past Advisors: [Pinyan Lu（陆品燕）](http://itcs.shufe.edu.cn/pinyan/) and [Hu Fu（伏虎）](https://www.fuhuthu.com/)
+Past Advisors: [Pinyan Lu(陆品燕)](http://itcs.shufe.edu.cn/pinyan/) and [Hu Fu(伏虎)](https://www.fuhuthu.com/)
 
 Experience except RPI: [Institute for Theoratical Computer Science in SHUFE](http://itcs.shufe.edu.cn/) 2019.02-2021.08
 
@@ -43,13 +43,13 @@ Full-time: [Polyhedra Network](https://polyhedra.network/), 2023.11-now, as mid-
 
 All the papers will be shown in PDF versions and most of them can be found in arxiv. Authors are listed by ***alphabetical order***(which means contributions are regarded equal) according to the rule of theoretical computer science. Papers are sorted by date of acception.
 
-Mechanism Design for Extending the Accessibility of Facilities, with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang（王晨豪）](https://chenhwang4.github.io/homepage) and Yanxi Xie（谢妍曦）, will appear in [ECAI 2024](https://www.ecai2024.eu/). PDF will be shown during the conference.
+[Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993), with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang(王晨豪)](https://chenhwang4.github.io/homepage) and Yanxi Xie(谢妍曦), will appear in [ECAI 2024](https://www.ecai2024.eu/). PDF will be shown during the conference.
 
-[Stability of Queueing Networks Beyond Complete Bipartite Cases](https://arxiv.org/abs/2210.07632), with [Hu Fu（伏虎）](https://www.fuhuthu.com/) and [Qun Hu（胡群）](https://itcs.sufe.edu.cn/54/3b/c10501a152635/page.htm), in [WINE 2022](https://www.cs.rpi.edu/wine2022/).
+[Stability of Queueing Networks Beyond Complete Bipartite Cases](https://arxiv.org/abs/2210.07632), with [Hu Fu(伏虎)](https://www.fuhuthu.com/) and [Qun Hu(胡群)](https://itcs.sufe.edu.cn/54/3b/c10501a152635/page.htm), in [WINE 2022](https://www.cs.rpi.edu/wine2022/).
 
 [Nearly Complete Characterization of 2-Agent Deterministic Strategyproof Mechanisms for Single Facility Location in Lp Space](https://arxiv.org/abs/2011.13133), single author, in [COCOA 2020](https://theory.utdallas.edu/COCOA2020/).
 
-[Social Choice for Eliminating the Worst Candidate under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice), with [Chenhao Wang（王晨豪）](https://chenhwang4.github.io/homepage), as Manuscript.
+[Social Choice for Eliminating the Worst Candidate under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice), with [Chenhao Wang(王晨豪)](https://chenhwang4.github.io/homepage), as Manuscript.
 <!-- (covered by Nisarg Shah's work in FOCS 2020) -->
 
 Google Scholar: https://scholar.google.com/citations?user=98G-ZLAAAAAJ&hl=zh-CN; I do not have a dblp homepage.
