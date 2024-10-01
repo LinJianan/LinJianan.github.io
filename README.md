@@ -54,7 +54,7 @@ All the papers will be shown in PDF versions and most of them can be found in ar
 
 Google Scholar: https://scholar.google.com/citations?user=98G-ZLAAAAAJ&hl=zh-CN; I do not have a dblp homepage.
 
-(This year I will submit another 5 papers in theory area and hope at least one of them can be accpeted QAQ.)
+(There are 4 papers submitted this year in theory area and hope at least one of them can be accpeted QAQ.)
 
 ### Life
 
