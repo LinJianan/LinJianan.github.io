@@ -6,6 +6,8 @@ Name: Jianan Lin (林家南)
 
 E-mail: jnlin16@fudan.edu.cn; <del>linj21@rpi.edu</del>(already deleted); hcm6755@gmail.com(recommended)
 
+Wechat: linjianan081 (Please tell me your info)
+
 ### Education
 
 2016.08-2021.06: Fudan Univiersity, Shanghai, China (Undergraduate)
