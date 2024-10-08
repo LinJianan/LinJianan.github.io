@@ -4,7 +4,7 @@ This is a brief self-introduction.
 
 Name: Jianan Lin (林家南)
 
-E-mail: jnlin16@fudan.edu.cn; <del>linj21@rpi.edu</del>(already deleted); hcm6755@gmail.com(recommended)
+Email: jnlin16@fudan.edu.cn; <del>linj21@rpi.edu</del>(already deleted); hcm6755@gmail.com (recommended)
 
 Wechat: linjianan081 (Please tell me your info)
 
@@ -43,7 +43,7 @@ Full-time: [Polyhedra Network](https://polyhedra.network/), 2023.11-now, as mid-
 
 ### Publications and Manuscripts
 
-All the papers will be shown in PDF versions and most of them can be found in arxiv. Authors are listed by ***alphabetical order***(which means contributions are regarded equal) according to the rule of theoretical computer science. Papers are sorted by date of acception.
+All the papers will be shown in PDF versions and most of them can be found in arxiv. Authors are listed by ***alphabetical order*** (which means contributions are regarded equal) according to the rule of theoretical computer science. Papers are sorted by date of acception.
 
 [Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993), with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) and Yanxi Xie (谢妍曦), will appear in [ECAI 2024](https://www.ecai2024.eu/). PDF will be shown during the conference.
 
