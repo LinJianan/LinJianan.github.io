@@ -45,7 +45,9 @@ Full-time: [Polyhedra Network](https://polyhedra.network/), 2023.11-now, as mid-
 
 All the papers will be shown in PDF versions and most of them can be found in arxiv. Authors are listed by ***alphabetical order*** (which means contributions are regarded equal) according to the rule of theoretical computer science. Papers are sorted by date of acception.
 
-[Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993), with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) and Yanxi Xie (谢妍曦), will appear in [ECAI 2024](https://www.ecai2024.eu/). PDF will be shown during the conference.
+Mechanism Design for Connecting Regions Under Disruptions (PDF will be shown after publication), with [Hau Chan](http://cse.unl.edu/~hchan/), Zining Qin, [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), will appear in [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
+
+[Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993), with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) and Yanxi Xie (谢妍曦), will appear in [ECAI 2024](https://www.ecai2024.eu/).
 
 [Stability of Queueing Networks Beyond Complete Bipartite Cases](https://arxiv.org/abs/2210.07632), with [Hu Fu (伏虎)](https://www.fuhuthu.com/) and [Qun Hu (胡群)](https://itcs.sufe.edu.cn/54/3b/c10501a152635/page.htm), in [WINE 2022](https://www.cs.rpi.edu/wine2022/).
 
@@ -55,8 +57,6 @@ All the papers will be shown in PDF versions and most of them can be found in ar
 <!-- (covered by Nisarg Shah's work in FOCS 2020) -->
 
 Google Scholar: https://scholar.google.com/citations?user=98G-ZLAAAAAJ&hl=zh-CN; I do not have a dblp homepage.
-
-(There are 4 papers submitted this year in theory area and hope at least one of them can be accpeted QAQ.)
 
 ### Life
 
