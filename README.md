@@ -47,7 +47,7 @@ All the papers will be shown in PDF versions and most of them can be found in ar
 
 Mechanism Design for Connecting Regions Under Disruptions (PDF will be shown after publication), with [Hau Chan](http://cse.unl.edu/~hchan/), Zining Qin, and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), will appear in [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
 
-[Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993), with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) and Yanxi Xie (谢妍曦), will appear in [ECAI 2024](https://www.ecai2024.eu/).
+[Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993), with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) and Yanxi Xie (谢妍曦), in [ECAI 2024](https://www.ecai2024.eu/).
 
 [Stability of Queueing Networks Beyond Complete Bipartite Cases](https://arxiv.org/abs/2210.07632), with [Hu Fu (伏虎)](https://www.fuhuthu.com/) and [Qun Hu (胡群)](https://itcs.sufe.edu.cn/54/3b/c10501a152635/page.htm), in [WINE 2022](https://www.cs.rpi.edu/wine2022/).
 
