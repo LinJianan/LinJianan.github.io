@@ -45,7 +45,7 @@ Full-time: [Polyhedra Network](https://polyhedra.network/), 2023.11-now, as mid-
 
 All the papers will be shown in PDF versions and most of them can be found in arxiv. Authors are listed by ***alphabetical order*** (which means contributions are regarded equal) according to the rule of theoretical computer science. Papers are sorted by date of acception.
 
-Mechanism Design for Connecting Regions Under Disruptions (PDF will be shown after publication), with [Hau Chan](http://cse.unl.edu/~hchan/), Zining Qin, and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), will appear in [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
+[Mechanism Design for Connecting Regions Under Disruptions](https://ojs.aaai.org/index.php/AAAI/article/view/33496), with [Hau Chan](http://cse.unl.edu/~hchan/), Zining Qin, and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), in [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
 
 [Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993), with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) and Yanxi Xie (谢妍曦), in [ECAI 2024](https://www.ecai2024.eu/).
 
