@@ -51,7 +51,7 @@ Hotelling-Downs with Facility Synergy: The Mall Effect, with [Elliot Anshelevich
 
 Strategyproof Mechanisms for Facility Location with Prediction Under the Maximum Cost Objective, with  [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), in [ECAI 2025](https://ecai2025.org/). PDF will be shown during the meeting.
 
-[Mechanism Design for Connecting Regions Under Disruptions](https://ojs.aaai.org/index.php/AAAI/article/view/33496), with [Hau Chan](http://cse.unl.edu/~hchan/), Zining Qin, and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), in [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/).
+[Mechanism Design for Connecting Regions Under Disruptions](https://ojs.aaai.org/index.php/AAAI/article/view/33496), with [Hau Chan](http://cse.unl.edu/~hchan/), Zining Qin, and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), in [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). Full paper (including appendix) can be seen [here](./publications/AAAI__MD_for_Obstacle_Full_Paper_Version).
 
 [Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993), with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) and Yanxi Xie (谢妍曦), in [ECAI 2024](https://www.ecai2024.eu/).
 
