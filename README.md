@@ -49,7 +49,7 @@ All the papers will be shown in PDF versions and most of them can be found in ar
 
 Hotelling-Downs with Facility Synergy: The Mall Effect, with [Elliot Anshelevich](https://sites.google.com/view/elliot-anshelevich) and [Noah Prisament](https://noahprisament.com/), in [SAGT 2025](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/).
 
-Strategyproof Mechanisms for Facility Location with Prediction Under the Maximum Cost Objective, with  [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), in [ECAI 2025](https://ecai2025.org/). PDF will be shown during the meeting.
+[Strategyproof Mechanisms for Facility Location with Prediction Under the Maximum Cost Objective](https://arxiv.org/abs/2509.00439), with  [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), in [ECAI 2025](https://ecai2025.org/).
 
 [Mechanism Design for Connecting Regions Under Disruptions](https://ojs.aaai.org/index.php/AAAI/article/view/33496), with [Hau Chan](http://cse.unl.edu/~hchan/), Zining Qin, and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), in [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). Full paper (including appendix) can be seen [here](./publications/AAAI__MD_for_Obstacle_Full_Paper_Version.pdf).
 
