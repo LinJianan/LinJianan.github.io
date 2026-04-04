@@ -35,21 +35,26 @@ This is my personal homepage, providing a brief introduction to my background an
 
 **Current**
 - **2025.05–present**: Mid-level Software Engineer, [Ant Group (Alibaba)](https://www.antgroup.com/)  
-  *Backend development with Python, Flask, Peewee, MySQL, ZSearch*
+  *Alipay Middle Platform Technology (Engineering Efficiency):* Developing AI agent platform and infrastructure, AI coding plugins and platforms, knowledge base construction and applications, and Alipay business knowledge understanding assistants.  
+  *Tech stack: Python, Flask, Peewee, MySQL, ZSearch*
 
 **Previous**
 - **2023.11–2025.05**: Mid-level Software Engineer, [Polyhedra Network](https://polyhedra.network/)  
-  *Backend development with Go, Gin, MongoDB, PostgreSQL*
+  *External-facing business:* Building zero-knowledge cross-chain bridges, cloud service cryptographic proofs, and AI agent toC platforms.  
+  *Tech stack: Go, Gin, MongoDB, PostgreSQL*
 - **2023.01–2023.10**: Junior Software Engineer, [FocusAI](https://focusai.com)  
-  *Full-stack development with TypeScript, React, Next.js, Go, Gin, MongoDB*
+  *External-facing business: Intelligent camera system* including web frontend, backend systems and central dispatch, camera-side capabilities and control.  
+  *Tech stack: TypeScript, React, Next.js, Go, Gin, MongoDB*
 
 **Internships**
 - **2022.05–2022.08**: Open-Source Contributor, [Hedgehog Lab](https://hlab.app)  
-  *Backend and frontend development with TypeScript, React*
+  *Mathematical computing and graphing libraries, calculator core logic, frontend and backend development.*  
+  *Tech stack: TypeScript, React*
 - **2020.07–2021.06**: Research Assistant, [TCS Lab](https://www.tcs-lab.com)  
-  *Theoretical Computer Science research*
+  *Research in theoretical computer science.*
 - **2019.09–2019.12**: Algorithm Engineer Intern, [Cardinal Operations (Beijing)](https://www.shanshu.ai/)  
-  *Data science and machine learning with Python, pandas*
+  *Designing optimization algorithms and data analysis.*  
+  *Tech stack: Python, pandas*
 
 ### Publications and Manuscripts
 
