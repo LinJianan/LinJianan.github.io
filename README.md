@@ -1,73 +1,107 @@
-This is a brief self-introduction.
+This is my personal homepage, providing a brief introduction to my background and work.
 
 ### Basic Information
 
-Name: Jianan Lin (林家南)
+**Name**: Jianan Lin (林家南)
 
-Email: jnlin16@fudan.edu.cn; <del>linj21@rpi.edu</del>(already deleted); hcm6755@gmail.com (recommended)
+**Email**: jnlin16@fudan.edu.cn; <del>linj21@rpi.edu</del> (deactivated); hcm6755@gmail.com (preferred)
 
-Wechat: linjianan081 (Please tell me your info)
+**WeChat**: linjianan081 (Please introduce yourself when contacting me)
 
 ### Education
 
-2016.08-2021.06: Fudan Univiersity, Shanghai, China (Undergraduate)
+**2016.08–2021.06**: Fudan University, Shanghai, China (Undergraduate)  
+**Major**: Natural Science (2016.08–2017.06), Materials Physics (2017.07–2018.04), Software Engineering (2018.05–2021.06)
 
-Major: 2016.08-2017.06 Natural Science; 2017.07-2018.04 Materal Physics; 2018.05-2021.06 Software Engineering
-
-2021.08-2022.12: Rensselaer Polytechnic Institute, Troy, US (Master, PhD quit)
-
-Major: Computer Science; Direction: Theoretical Computer Science; Adviosr: [Elliot Anshelevich](https://www.cs.rpi.edu/~eanshel/) and [Lirong Xia (夏立荣)](https://www.cs.rpi.edu/~xial/)
+**2021.08–2022.12**: Rensselaer Polytechnic Institute (RPI), Troy, NY, USA (Master's program; PhD studies discontinued)  
+**Major**: Computer Science  
+**Research Focus**: Theoretical Computer Science  
+**Advisors**: [Elliot Anshelevich](https://www.cs.rpi.edu/~eanshel/) and [Lirong Xia (夏立荣)](https://www.cs.rpi.edu/~xial/)
 
 ### Research
 
-Research Topic: Algorithmic Game Theory, Algorithmic Mechanism Design; Online Approximation Algorithms
+**Research Topics**: Algorithmic Game Theory, Algorithmic Mechanism Design, Online Approximation Algorithms
 
-Past Advisors: [Pinyan Lu (陆品燕)](http://itcs.shufe.edu.cn/pinyan/) and [Hu Fu (伏虎)](https://www.fuhuthu.com/)
+**Current Collaborators**: [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
 
-Experience except RPI: [Institute for Theoratical Computer Science in SHUFE](http://itcs.shufe.edu.cn/) 2019.02-2021.08
+**Past Advisors** (besides PhD advisors): [Pinyan Lu (陆品燕)](http://itcs.shufe.edu.cn/pinyan/) and [Hu Fu (伏虎)](https://www.fuhuthu.com/)
 
-Past Experience: [Functional Nanomaterial Lab in Fudan University](http://ms.fudan.edu.cn/fxs/index.html) 2017.08-2018.05；
-Electornic Intelligence Lab in Fudan University 2018.06-2019.01
+**Research Experience**:
+- **2019.02–2021.08**: Research Assistant, [Institute for Theoretical Computer Science, SHUFE](http://itcs.shufe.edu.cn/)
+- **2018.06–2019.01**: Research Assistant, Electronic Intelligence Lab, Fudan University
+- **2017.08–2018.05**: Research Assistant, [Functional Nanomaterial Lab, Fudan University](http://ms.fudan.edu.cn/fxs/index.html)
 
-### Work
+### Work Experience
 
-Full-time: [Ant Group (Alibaba)](https://www.antgroup.com/), 2025.05-now, as mid-level software engineer (direction: backend development using python, flask, peewee, mysql, zsearch)
+**Current**
+- **2025.05–present**: Mid-level Software Engineer, [Ant Group (Alibaba)](https://www.antgroup.com/)  
+  *Backend development with Python, Flask, Peewee, MySQL, ZSearch*
 
-Full-time: [Polyhedra Network](https://polyhedra.network/), 2023.11-2025.05, as mid-level software engineer (direction: backend development using golang, gin, mongodb, postgre-sql)
+**Previous**
+- **2023.11–2025.05**: Mid-level Software Engineer, [Polyhedra Network](https://polyhedra.network/)  
+  *Backend development with Go, Gin, MongoDB, PostgreSQL*
+- **2023.01–2023.10**: Junior Software Engineer, [FocusAI](https://focusai.com)  
+  *Full-stack development with TypeScript, React, Next.js, Go, Gin, MongoDB*
 
-Full-time: [FocusAI](https://focusai.com), 2023.01-2023.10 as junior software engineer (direction: backend and frontend development using typescript, react, next.js, golang, gin, mongodb)
-
-Intern: [Hedgehog Lab](https://hlab.app), 2022.05-2022.08 as open-source contributor (direction: backend and frontend development using typescript, react)
-
-Intern: [TCS Lab](https://www.tcs-lab.com), 2020.07-2021.06, as research assistant (direction: theoretical computer science research)
-
-Intern: [Cardinal Opertions (Beijing)](https://www.shanshu.ai/), 2019.09-2019.12, as algorithm engineer intern (direction: data science and machine learning using python, pandas, ml)
+**Internships**
+- **2022.05–2022.08**: Open-Source Contributor, [Hedgehog Lab](https://hlab.app)  
+  *Backend and frontend development with TypeScript, React*
+- **2020.07–2021.06**: Research Assistant, [TCS Lab](https://www.tcs-lab.com)  
+  *Theoretical Computer Science research*
+- **2019.09–2019.12**: Algorithm Engineer Intern, [Cardinal Operations (Beijing)](https://www.shanshu.ai/)  
+  *Data science and machine learning with Python, pandas*
 
 ### Publications and Manuscripts
 
-All the papers will be shown in PDF versions and most of them can be found in arxiv. Authors are listed by ***alphabetical order*** (which means contributions are regarded equal) according to the rule of theoretical computer science. Papers are sorted by date of acception.
+**Google Scholar**: [https://scholar.google.com/citations?user=98G-ZLAAAAAJ](https://scholar.google.com/citations?user=98G-ZLAAAAAJ)
 
-[Obnoxious Facility Location Problems: Strategyproof Mechanisms Optimizing $L_p$-Aggregated Utilities and Costs](https://arxiv.org/abs/2512.18620), with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), in [AAMAS 2026](https://cyprusconferences.org/aamas2026/)
+Papers are provided as PDFs, with most also available on arXiv. In accordance with theoretical computer science conventions, author lists follow **alphabetical order** (indicating equal contribution). Publications are categorized into journals, conferences, and manuscripts, numbered chronologically with the oldest work as #1. Items are listed in descending order (most recent first).
 
-Hotelling-Downs with Facility Synergy: The Mall Effect, with [Elliot Anshelevich](https://sites.google.com/view/elliot-anshelevich) and [Noah Prisament](https://noahprisament.com/), in [SAGT 2025](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/).
+#### Journals
+*J3*. *Strategyproof Mechanisms for Extending the Accessibility Range of Facilities*  
+  with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), and Yanxi Xie (谢妍曦)  
+  *In [JAIR 2026](https://www.jair.org/index.php/jair)* (Not published, journal version with extension of C3)
 
-[Strategyproof Mechanisms for Facility Location with Prediction Under the Maximum Cost Objective](https://arxiv.org/abs/2509.00439), with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), in [ECAI 2025](https://ecai2025.org/).
+*J2*. *Strategyproof Facility Location with Prediction: Minimizing the Maximum Cost*  
+  with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
+  *In [JAAMAS 2026](https://link.springer.com/journal/10458)* (Not published, journal version with extension of C5)
 
-[Mechanism Design for Connecting Regions Under Disruptions](https://ojs.aaai.org/index.php/AAAI/article/view/33496), with [Hau Chan](http://cse.unl.edu/~hchan/), Zining Qin, and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), in [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). Full paper (including appendix) can be seen [here](./publications/AAAI__MD_for_Obstacle_Full_Paper_Version.pdf).
+*J1*. *Hotelling-Downs with Facility Synergy: The Mall Effect*  
+  with [Elliot Anshelevich](https://sites.google.com/view/elliot-anshelevich) and [Noah Prisament](https://noahprisament.com/)  
+  *In [TEAC 2026](https://dl.acm.org/journal/teac)* (Not published, journal version of C6)
 
-[Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993), with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) and Yanxi Xie (谢妍曦), in [ECAI 2024](https://www.ecai2024.eu/).
+#### Conferences
+*C7*. *[Obnoxious Facility Location Problems: Strategyproof Mechanisms Optimizing $L_p$-Aggregated Utilities and Costs](https://arxiv.org/abs/2512.18620)*  
+  with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
+  *In [AAMAS 2026](https://cyprusconferences.org/aamas2026/)*
 
-[Stability of Queueing Networks Beyond Complete Bipartite Cases](https://arxiv.org/abs/2210.07632), with [Hu Fu (伏虎)](https://www.fuhuthu.com/) and [Qun Hu (胡群)](https://itcs.sufe.edu.cn/54/3b/c10501a152635/page.htm), in [WINE 2022](https://www.cs.rpi.edu/wine2022/).
+*C6*. *[Hotelling-Downs with Facility Synergy: The Mall Effect](https://noahprisament.com/doc/SAGT2025-TheMallEffect.pdf)*  
+  with [Elliot Anshelevich](https://sites.google.com/view/elliot-anshelevich) and [Noah Prisament](https://noahprisament.com/)  
+  *In [SAGT 2025](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/)*
 
-[Nearly Complete Characterization of 2-Agent Deterministic Strategyproof Mechanisms for Single Facility Location in $L_p$ Space](https://arxiv.org/abs/2011.13133), single author, in [COCOA 2020](https://theory.utdallas.edu/COCOA2020/).
+*C5*. *[Strategyproof Mechanisms for Facility Location with Prediction Under the Maximum Cost Objective](https://arxiv.org/abs/2509.00439)*  
+  with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
+  *In [ECAI 2025](https://ecai2025.org/)*
 
-[Social Choice for Eliminating the Worst Candidate under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice), with [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), as Manuscript.
-<!-- (covered by Nisarg Shah's work in FOCS 2020) -->
+*C4*. *[Mechanism Design for Connecting Regions Under Disruptions](https://ojs.aaai.org/index.php/AAAI/article/view/33496)*  
+  with [Hau Chan](http://cse.unl.edu/~hchan/), Zining Qin, and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
+  *In [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)*  
+  Full paper (with appendix) available [here](./publications/AAAI__MD_for_Obstacle_Full_Paper_Version.pdf)
 
-Google Scholar: https://scholar.google.com/citations?user=98G-ZLAAAAAJ&hl=zh-CN; I do not have a dblp homepage.
+*C3*. *[Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993)*  
+  with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), and Yanxi Xie (谢妍曦)  
+  *In [ECAI 2024](https://www.ecai2024.eu/)*
 
-There are 2 journal papers under review, and hope at least one of them can be accpeted this year. Besides, I am focusing on fairness for facility location problem this year.
+*C2*. *[Stability of Queueing Networks Beyond Complete Bipartite Cases](https://arxiv.org/abs/2210.07632)*  
+  with [Hu Fu (伏虎)](https://www.fuhuthu.com/) and [Qun Hu (胡群)](https://itcs.sufe.edu.cn/54/3b/c10501a152635/page.htm)  
+  *In [WINE 2022](https://www.cs.rpi.edu/wine2022/)*
 
-### Life
+*C1*. *[Nearly Complete Characterization of 2-Agent Deterministic Strategyproof Mechanisms for Single Facility Location in $L_p$ Space](https://arxiv.org/abs/2011.13133)*  
+  Single author  
+  *In [COCOA 2020](https://theory.utdallas.edu/COCOA2020/)*
 
-I like Piano, Chess, StarCraft II, Heroes of the Storm, Snowbreak: Containment Zone and Azur Lane. Welcome to discuss with me about these.
+#### Manuscripts
+*M1*. *[Social Choice for Eliminating the Worst Candidate under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice)*  
+  with [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
+  *Manuscript* <!-- (covered by Nisarg Shah's work in FOCS 2020) -->
+
