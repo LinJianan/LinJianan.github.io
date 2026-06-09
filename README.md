@@ -74,7 +74,7 @@ Papers are provided as PDFs, with most also available on arXiv. In accordance wi
 
 *J1*. *[Strategyproof Facility Location with Prediction: Minimizing the Maximum Cost](https://arxiv.org/abs/2509.00439v2)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
-*In [JAAMAS 2026](https://link.springer.com/journal/10458)* (Not published, journal version with extension of C5)
+*In [JAAMAS 2026](https://link.springer.com/journal/10458)* (Journal version with extension of C5)
 
 #### Conferences
 
