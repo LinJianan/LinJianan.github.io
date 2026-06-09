@@ -63,6 +63,7 @@ This is my personal homepage, providing a brief introduction to my background an
 Papers are provided as PDFs, with most also available on arXiv. In accordance with theoretical computer science conventions, author lists follow **alphabetical order** (indicating equal contribution). Publications are categorized into journals, conferences, and manuscripts, numbered chronologically with the oldest work as #1. Items are listed in descending order (most recent first).
 
 #### Journals
+
 <!-- *J3*. *Strategyproof Mechanisms for Extending the Accessibility Range of Facilities*  
   with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), and Yanxi Xie (谢妍曦)  
   *In [JAIR 2026](https://www.jair.org/index.php/jair)* (Not published, journal version with extension of C3) -->
@@ -71,11 +72,12 @@ Papers are provided as PDFs, with most also available on arXiv. In accordance wi
   with [Elliot Anshelevich](https://sites.google.com/view/elliot-anshelevich) and [Noah Prisament](https://noahprisament.com/)  
   *In [TEAC 2026](https://dl.acm.org/journal/teac)* (Not published, journal version of C6) -->
 
-*J1*. *Strategyproof Facility Location with Prediction: Minimizing the Maximum Cost*  
+*J1*. *[Strategyproof Facility Location with Prediction: Minimizing the Maximum Cost](https://arxiv.org/abs/2509.00439v2)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
 *In [JAAMAS 2026](https://link.springer.com/journal/10458)* (Not published, journal version with extension of C5)
 
 #### Conferences
+
 *C7*. *[Obnoxious Facility Location Problems: Strategyproof Mechanisms Optimizing $L_p$-Aggregated Utilities and Costs](https://arxiv.org/abs/2512.18620)*  
   with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
   *In [AAMAS 2026](https://cyprusconferences.org/aamas2026/)*
@@ -84,7 +86,7 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
   with [Elliot Anshelevich](https://sites.google.com/view/elliot-anshelevich) and [Noah Prisament](https://noahprisament.com/)  
   *In [SAGT 2025](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/)*
 
-*C5*. *[Strategyproof Mechanisms for Facility Location with Prediction Under the Maximum Cost Objective](https://arxiv.org/abs/2509.00439)*  
+*C5*. *[Strategyproof Mechanisms for Facility Location with Prediction Under the Maximum Cost Objective](https://arxiv.org/abs/2509.00439v1)*  
   with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
   *In [ECAI 2025](https://ecai2025.org/)*
 
@@ -106,7 +108,11 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
   *In [COCOA 2020](https://theory.utdallas.edu/COCOA2020/)*
 
 #### Manuscripts
+
+*M2*. *[Strategyproof Mechanisms for Euclidean Facility Location Problems under $L_p$-norm Social Cost](https://arxiv.org/abs/2606.08621)*  
+with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
+
 *M1*. *[Social Choice for Eliminating the Worst Candidate under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice)*  
   with [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
-  *Manuscript* <!-- (covered by Nisarg Shah's work in FOCS 2020) -->
+  <!-- *Manuscript* (covered by Nisarg Shah's work in FOCS 2020) -->
 
