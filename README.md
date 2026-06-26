@@ -82,7 +82,7 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
   with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
   *In [AAMAS 2026](https://cyprusconferences.org/aamas2026/)*
 
-*C6*. *[Hotelling-Downs with Facility Synergy: The Mall Effect](https://noahprisament.com/doc/SAGT2025-TheMallEffect.pdf)*  
+*C6*. *[Hotelling-Downs with Facility Synergy: The Mall Effect](https://arxiv.org/abs/2606.26055)*  
   with [Elliot Anshelevich](https://sites.google.com/view/elliot-anshelevich) and [Noah Prisament](https://noahprisament.com/)  
   *In [SAGT 2025](https://www.bath.ac.uk/events/the-international-symposium-on-algorithmic-game-theory-sagt-2025/)*
 
@@ -90,10 +90,11 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
   with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
   *In [ECAI 2025](https://ecai2025.org/)*
 
-*C4*. *[Mechanism Design for Connecting Regions Under Disruptions](https://ojs.aaai.org/index.php/AAAI/article/view/33496)*  
+*C4*. *[Mechanism Design for Connecting Regions Under Disruptions](https://arxiv.org/abs/2605.18626)*  
   with [Hau Chan](http://cse.unl.edu/~hchan/), Zining Qin, and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
-  *In [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/)*  
-  Full paper (with appendix) available [here](./publications/AAAI__MD_for_Obstacle_Full_Paper_Version.pdf)
+  *In [AAAI 2025](https://arxiv.org/abs/2605.18626)*  
+  Arxiv version includes some extensions.
+  <!-- Full paper (with appendix) available [here](./publications/AAAI__MD_for_Obstacle_Full_Paper_Version.pdf) -->
 
 *C3*. *[Mechanism Design for Extending the Accessibility of Facilities](https://arxiv.org/abs/2409.08993)*  
   with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), and Yanxi Xie (谢妍曦)  
