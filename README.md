@@ -60,7 +60,7 @@ This is my personal homepage, providing a brief introduction to my background an
 
 **Google Scholar**: [https://scholar.google.com/citations?user=98G-ZLAAAAAJ](https://scholar.google.com/citations?user=98G-ZLAAAAAJ)
 
-Papers are provided as PDFs, with most also available on arXiv. In accordance with theoretical computer science conventions, author lists follow **alphabetical order** (indicating equal contribution). Publications are categorized into journals, conferences, and manuscripts, numbered chronologically with the oldest work as #1. Items are listed in descending order (most recent first).
+Papers are provided as PDFs, with most also available on arXiv. In accordance with theoretical computer science conventions, author lists follow **alphabetical order** (indicating equal contribution) unless otherwise noted. Publications are categorized into journals, conferences, and manuscripts, numbered chronologically with the oldest work as #1. Items are listed in descending order (most recent first).
 
 #### Journals
 
@@ -109,6 +109,9 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
   *In [COCOA 2020](https://theory.utdallas.edu/COCOA2020/)*
 
 #### Manuscripts
+
+*M3*. *[Mechanism Design for Locating a Bridge Between Regions with Prelocated Facilities](https://arxiv.org/abs/2607.04309)*  
+  Authors (non-alphabetical order): Genjie Qin, Chenhao Wang, Jianan Lin, Qizhi Fang, and Wenjing Liu  
 
 *M2*. *[Strategyproof Mechanisms for Euclidean Facility Location Problems under $L_p$-norm Social Cost](https://arxiv.org/abs/2606.08621)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
