@@ -110,6 +110,9 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
 
 #### Manuscripts
 
+*M5*. *[Randomized Strategyproof Facility Location: Two Facilities and Beyond](https://arxiv.org/abs/2608.22484)*  
+with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
+
 *M4*. *[Improved Metric Distortion Bounds for Deterministic Weighted-Tournament Voting Rules](https://arxiv.org/abs/2608.15247)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
 
