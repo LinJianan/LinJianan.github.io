@@ -78,6 +78,10 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
 
 #### Conferences
 
+*C8*. *Improved Randomized Approximations for Strategic Obnoxious Facility Location*  
+  with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
+  *In [ISAAC 2026](https://www.algo-door.com/isaac2026/index.html)* (waiting for Arxiv)
+
 *C7*. *[Obnoxious Facility Location Problems: Strategyproof Mechanisms Optimizing $L_p$-Aggregated Utilities and Costs](https://arxiv.org/abs/2512.18620)*  
   with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
   *In [AAMAS 2026](https://cyprusconferences.org/aamas2026/)*
@@ -109,6 +113,12 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
   *In [COCOA 2020](https://theory.utdallas.edu/COCOA2020/)*
 
 #### Manuscripts
+
+*M7*. *Strategyproof Mechanisms for Connecting Impassable Regions*  
+with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) (waiting for Arxiv)
+
+*M6*. *Sequential Phragm\'en Guarantees 2-Approximate Core Stability*  
+with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) (waiting for Arxiv)
 
 *M5*. *[Randomized Strategyproof Facility Location: Two Facilities and Beyond](https://arxiv.org/abs/2608.22484)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
