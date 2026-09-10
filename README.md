@@ -117,7 +117,7 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
 *M7*. *[Strategyproof Mechanisms for Connecting Impassable Regions](https://arxiv.org/abs/2609.08488)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
 
-*M6*. *Sequential Phragm\'en Guarantees 2-Approximate Core Stability*  
+*M6*. *[Sequential Phragm\'en Guarantees 2-Approximate Core Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7435181)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) (waiting for Arxiv)
 
 *M5*. *[Randomized Strategyproof Facility Location: Two Facilities and Beyond](https://arxiv.org/abs/2608.22484)*  
