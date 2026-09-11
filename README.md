@@ -78,6 +78,10 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
 
 #### Conferences
 
+*C9*. *[Strategyproof Mechanisms for Euclidean Facility Location Problems under $L_p$-norm Social Cost](https://arxiv.org/abs/2606.08621)*  
+  with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
+  *In [WINE 2026](https://wine2026conf.github.io/)*
+
 *C8*. *[Improved Randomized Approximations for Strategic Obnoxious Facility Location](https://arxiv.org/abs/2609.07261)*  
   with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
   *In [ISAAC 2026](https://www.algo-door.com/isaac2026/index.html)*
