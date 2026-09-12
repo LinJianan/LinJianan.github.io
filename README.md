@@ -118,23 +118,20 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
 
 #### Manuscripts
 
-*M7*. *[Strategyproof Mechanisms for Connecting Impassable Regions](https://arxiv.org/abs/2609.08488)*  
+*M6*. *[Strategyproof Mechanisms for Connecting Impassable Regions](https://arxiv.org/abs/2609.08488)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
 
-*M6*. *[Sequential Phragm\'en Guarantees 2-Approximate Core Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7435181)*  
+*M5*. *[Sequential Phragm\'en Guarantees 2-Approximate Core Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7435181)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) (waiting for Arxiv)
 
-*M5*. *[Randomized Strategyproof Facility Location: Two Facilities and Beyond](https://arxiv.org/abs/2608.22484)*  
+*M4*. *[Randomized Strategyproof Facility Location: Two Facilities and Beyond](https://arxiv.org/abs/2608.22484)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
 
-*M4*. *[Improved Metric Distortion Bounds for Deterministic Weighted-Tournament Voting Rules](https://arxiv.org/abs/2608.15247)*  
+*M3*. *[Improved Metric Distortion Bounds for Deterministic Weighted-Tournament Voting Rules](https://arxiv.org/abs/2608.15247)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
 
-*M3*. *[Mechanism Design for Locating a Bridge Between Regions with Prelocated Facilities](https://arxiv.org/abs/2607.04309)*  
+*M2*. *[Mechanism Design for Locating a Bridge Between Regions with Prelocated Facilities](https://arxiv.org/abs/2607.04309)*  
   Authors (non-alphabetical order): Genjie Qin, Chenhao Wang, Jianan Lin, Qizhi Fang, and Wenjing Liu  
-
-*M2*. *[Strategyproof Mechanisms for Euclidean Facility Location Problems under $L_p$-norm Social Cost](https://arxiv.org/abs/2606.08621)*  
-with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
 
 *M1*. *[Social Choice for Eliminating the Worst Candidate under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice)*  
   with [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
