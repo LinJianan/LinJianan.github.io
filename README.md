@@ -68,9 +68,9 @@ Papers are provided as PDFs, with most also available on arXiv. In accordance wi
   with [Hau Chan](http://cse.unl.edu/~hchan/), [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage), and Yanxi Xie (谢妍曦)  
   *In [JAIR 2026](https://www.jair.org/index.php/jair)* (Not published, journal version with extension of C3) -->
 
-<!-- *J2*. *Hotelling-Downs with Facility Synergy: The Mall Effect*  
+*J2*. *Hotelling-Downs with Facility Synergy: The Mall Effect*  
   with [Elliot Anshelevich](https://sites.google.com/view/elliot-anshelevich) and [Noah Prisament](https://noahprisament.com/)  
-  *In [TEAC 2026](https://dl.acm.org/journal/teac)* (Not published, journal version of C6) -->
+  *In [TEAC 2026](https://dl.acm.org/journal/teac)* (Not published, journal version of C6)
 
 *J1*. *[Strategyproof Facility Location with Prediction: Minimizing the Maximum Cost](https://arxiv.org/abs/2509.00439v2)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
@@ -117,6 +117,18 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
   *In [COCOA 2020](https://theory.utdallas.edu/COCOA2020/)*
 
 #### Manuscripts
+
+*M10*. *[A 3.7321-Competitive Algorithm for Matroid Secretary](https://arxiv.org/abs/2609.17782)*  
+with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
+
+*M9*. *[Consistency-Robustness Tradeoffs for Strategyproof Scheduling with Predictions](https://arxiv.org/abs/2609.14088)*  
+with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
+
+*M8*. *[Learning-Augmented Strategyproof Facility Location in $\mathbb{R}^d$ with $\ell_p$ Distances](https://arxiv.org/abs/2609.12829)*  
+with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
+
+*M7*. *[A Randomized $\frac32$-Approximation for Strategic Facility Location on a Circle](https://arxiv.org/abs/2609.12792)*  
+with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
 
 *M6*. *[Strategyproof Mechanisms for Connecting Impassable Regions](https://arxiv.org/abs/2609.08488)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
