@@ -118,34 +118,30 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
 
 #### Manuscripts
 
-*M10*. *[A 3.7321-Competitive Algorithm for Matroid Secretary](https://arxiv.org/abs/2609.17782)*  
+*M9*. *[A 3.7321-Competitive Algorithm for Matroid Secretary](https://arxiv.org/abs/2609.17782)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
 
-*M9*. *[Consistency-Robustness Tradeoffs for Strategyproof Scheduling with Predictions](https://arxiv.org/abs/2609.14088)*  
+*M8*. *[Consistency-Robustness Tradeoffs for Strategyproof Scheduling with Predictions](https://arxiv.org/abs/2609.14088)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
 
-*M8*. *[Learning-Augmented Strategyproof Facility Location in $\mathbb{R}^d$ with $\ell_p$ Distances](https://arxiv.org/abs/2609.12829)*  
+*M7*. *[Learning-Augmented Strategyproof Facility Location in $\mathbb{R}^d$ with $\ell_p$ Distances](https://arxiv.org/abs/2609.12829)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
 
-*M7*. *[A Randomized $\frac32$-Approximation for Strategic Facility Location on a Circle](https://arxiv.org/abs/2609.12792)*  
+*M6*. *[A Randomized $\frac32$-Approximation for Strategic Facility Location on a Circle](https://arxiv.org/abs/2609.12792)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
 
-*M6*. *[Strategyproof Mechanisms for Connecting Impassable Regions](https://arxiv.org/abs/2609.08488)*  
+*M5*. *[Strategyproof Mechanisms for Connecting Impassable Regions](https://arxiv.org/abs/2609.08488)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
 
-*M5*. *[Sequential Phragm\'en Guarantees 2-Approximate Core Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7435181)*  
+*M4*. *[Sequential Phragm\'en Guarantees 2-Approximate Core Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7435181)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage) (waiting for Arxiv)
 
-*M4*. *[Randomized Strategyproof Facility Location: Two Facilities and Beyond](https://arxiv.org/abs/2608.22484)*  
+*M3*. *[Randomized Strategyproof Facility Location: Two Facilities and Beyond](https://arxiv.org/abs/2608.22484)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
 
-*M3*. *[Improved Metric Distortion Bounds for Deterministic Weighted-Tournament Voting Rules](https://arxiv.org/abs/2608.15247)*  
+*M2*. *[Improved Metric Distortion Bounds for Deterministic Weighted-Tournament Voting Rules](https://arxiv.org/abs/2608.15247)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
 
-*M2*. *[Mechanism Design for Locating a Bridge Between Regions with Prelocated Facilities](https://arxiv.org/abs/2607.04309)*  
+*M1*. *[Mechanism Design for Locating a Bridge Between Regions with Prelocated Facilities](https://arxiv.org/abs/2607.04309)*  
   Authors (non-alphabetical order): Genjie Qin, Chenhao Wang, Jianan Lin, Qizhi Fang, and Wenjing Liu  
-
-*M1*. *[Social Choice for Eliminating the Worst Candidate under Metric Preferences](https://github.com/LinJianan/A-Manuscript-of-Social-Choice)*  
-  with [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
-  <!-- *Manuscript* (covered by Nisarg Shah's work in FOCS 2020) -->
 
