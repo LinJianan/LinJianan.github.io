@@ -118,7 +118,7 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
 
 #### Manuscripts
 
-*M9*. *[A 3.7321-Competitive Algorithm for Matroid Secretary](https://arxiv.org/abs/2609.17782)*  
+*M9*. *[A 3.1462-Competitive Algorithm for Matroid Secretary](https://arxiv.org/abs/2609.17782)*  
 with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)
 
 *M8*. *[Consistency-Robustness Tradeoffs for Strategyproof Scheduling with Predictions](https://arxiv.org/abs/2609.14088)*  
