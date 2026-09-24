@@ -78,6 +78,10 @@ with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https
 
 #### Conferences
 
+*C10*. *Learning-Augmented Mechanism Design for Facility Location under $L_p$-Norm Social Costs*  
+  with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
+  *In [NeurIPS 2026](https://nips.cc/Conferences/2026)*
+
 *C9*. *[Strategyproof Mechanisms for Euclidean Facility Location Problems under $L_p$-norm Social Cost](https://arxiv.org/abs/2606.08621)*  
   with [Hau Chan](http://cse.unl.edu/~hchan/) and [Chenhao Wang (王晨豪)](https://chenhwang4.github.io/homepage)  
   *In [WINE 2026](https://wine2026conf.github.io/)*
